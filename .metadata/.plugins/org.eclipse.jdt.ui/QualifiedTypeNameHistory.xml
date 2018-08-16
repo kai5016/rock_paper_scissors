@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="jp.co.lesson.organizer.GameOrganizer"/>
+<fullyQualifiedTypeName name="jp.co.lesson.organizer.GameOrganizerFactory"/>
+<fullyQualifiedTypeName name="jp.co.lesson.player.RockPaperScissorsPlayer"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="jp.co.lesson.constant.Hands"/>
+<fullyQualifiedTypeName name="jp.co.lesson.util.AppStringUtil"/>
+<fullyQualifiedTypeName name="jp.co.lesson.player.RockPaperScissorsNonePlayer"/>
+<fullyQualifiedTypeName name="jp.co.lesson.judge.RockPaperScissorsJudge"/>
+<fullyQualifiedTypeName name="jp.co.lesson.player.AbstractRockPaperScissorsPlayer"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="jp.co.lesson.util.AppIOUtil"/>
+<fullyQualifiedTypeName name="jp.co.lesson.constant.AppMessage"/>
+</qualifiedTypeNameHistroy>
